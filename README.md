@@ -1,0 +1,2 @@
+# fullj-javascript
+learning js
