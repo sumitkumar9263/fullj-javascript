@@ -1,2 +1,2 @@
-# fullj-javascript
+# full-javascript
 learning js
